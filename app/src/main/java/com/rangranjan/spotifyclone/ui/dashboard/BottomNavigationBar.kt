@@ -31,7 +31,7 @@ fun RowScope.AddBottomNavigationItem(
 ) {
     BottomNavigationItem(
         onClick = {},
-        alwaysShowLabel = false,
+        alwaysShowLabel = true,
         icon = { BottomNavigationIcon(screen.icon) },
         label = { BottomNavigationLabel(label = screen.label) },
         selected = currentBackstackEntry?.destination?.hierarchy?.any{ it.route == screen.route } == true
