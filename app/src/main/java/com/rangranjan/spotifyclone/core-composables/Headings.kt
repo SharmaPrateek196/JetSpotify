@@ -2,6 +2,7 @@ package com.rangranjan.spotifyclone.core
 
 import androidx.compose.material.Text
 import androidx.compose.runtime.Composable
+import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.tooling.preview.Preview
@@ -10,13 +11,15 @@ import androidx.compose.ui.unit.sp
 @Composable
 fun Heading1(
     text: String,
-    color: Color
+    color: Color = Color.White,
+    modifier: Modifier = Modifier
 ) {
     Text(
         text = text,
         color = color,
-        fontSize = 14.sp,
-        fontWeight = FontWeight.Bold
+        fontSize = 20.sp,
+        fontWeight = FontWeight.Bold,
+        modifier = modifier
     )
 }
 

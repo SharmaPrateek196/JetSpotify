@@ -12,7 +12,9 @@ private val DarkColorPalette = darkColors(
     primaryVariant = Color.Green,
     secondary = Teal200,
     background = Color.Black,
-    onBackground = Color.White
+    onBackground = Color.White,
+    surface = Color.Black,
+    onSurface = Color.White
 )
 
 private val LightColorPalette = lightColors(
@@ -20,7 +22,9 @@ private val LightColorPalette = lightColors(
     primaryVariant = Color.Green,
     secondary = Teal200,
     background = Color.White,
-    onBackground = Color.Black
+    onBackground = Color.Black,
+    surface = Color.Black,
+    onSurface = Color.White
 
     /* Other default colors to override
     background = Color.White,

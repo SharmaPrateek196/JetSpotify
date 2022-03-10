@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../layout/compose-model-1646829487444.xml" value="0.75" />
+        <entry key="../../../../../layout/compose-model-1646829989217.xml" value="1.5" />
+        <entry key="../../../../../layout/compose-model-1646831624919.xml" value="0.25" />
+        <entry key="../../../../../layout/compose-model-1646849434064.xml" value="0.25" />
+        <entry key="../../../../../layout/compose-model-1646851187537.xml" value="0.165" />
+        <entry key="../../../../../layout/compose-model-1646851762163.xml" value="0.17685185185185184" />
+        <entry key="../../../../../layout/compose-model-1646901931947.xml" value="0.25" />
+        <entry key="../../../../../layout/compose-model-1646905893680.xml" value="0.6987179487179487" />
+        <entry key="../../../../../layout/compose-model-1646906363851.xml" value="0.165" />
+      </map>
+    </option>
+  </component>
   <component name="ExternalStorageConfigurationManager" enabled="true" />
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
 </project>
